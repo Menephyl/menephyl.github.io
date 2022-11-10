@@ -1,2 +1,2 @@
 # Social
-Eis abaixo um projeto de html5 com css3 indicando minha apresentação profissional.
+Neste repositório contém meu primeiro portifólio utilizando o aprendido em Html5 e Css3!
