@@ -5,26 +5,45 @@
 body{background-image: linear-gradient(to bottom,#3A3D5C,#4954DB,#8E95E1);}
 
 main{
-    background-color: rgb(217, 233, 238);
+    display: block;
+    background-color: rgb(233, 242, 245);
+    font-family: 'Times New Roman', Times, serif;
     box-shadow: 5px 5px 15px ;
     border-radius:20px;
-    width:auto;
-    padding: 10px;
-    margin:auto;  
+    width:800px;
+    height: 600px;
+    padding: 5px;
+    margin: auto;
+    
+     
+
 }
+
+
 h1{
     text-align: center;
     text-shadow: 1px 1px 2px black;
+    margin: auto;
 
 }
-
+#profile-img{ text-align: center;
+}
+div{ display: block;
+    margin: 0, auto, 0 auto;
+}
 h2{
     text-align: center;
 }
 h3{
-    text-align: center;
+    text-align: center
+
 }
 
 p{
-    text-align: justify;
+    text-align: center;
+    margin:center;
+
+}
+ul{
+    text-align: center;
 }
