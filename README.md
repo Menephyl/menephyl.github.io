@@ -7,7 +7,11 @@ Meu Perfl
 
  Eu ainda estou aprendendo!
  
-###O que vou colocar aqui?###
+O que vou colocar aqui?
 
 *Meu planejamento é ir colocando a prática dos meus estudos por cursos em ação, bem como os primeiros "index.html até o conteudo full stack que aprenderei"*)
+
+<a href="https://github.com/Menephyl/html-css"> Meus exercícios de html5 e css3 até atualmente</a>
+
+<a href="https://github.com/Menephyl/projeto-site"> Meu projeto do módulo 1 do curso </a>
 
