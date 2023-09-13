@@ -6,7 +6,7 @@ body{background-image: linear-gradient(to bottom,#292a36,#0818c8,#0b0b0d);}
 
 main{
     display: block;
-    background-color: rgba(194, 240, 255, 0.718);
+    background-color: rgba(255, 255, 255, 0.718);
     font-family: 'Times New Roman', Times, serif;
     box-shadow: 5px 5px 15px ;
     border-radius:20px;
