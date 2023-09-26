@@ -10,15 +10,17 @@ main{
     font-family: 'Times New Roman', Times, serif;
     box-shadow: 5px 5px 15px ;
     border-radius:20px;
-    width:800px;
-    height: 3000px ;
+    width:600px;
+    height: 1500px ;
     padding: 5px;
     margin: auto;
-    
-     
 
 }
+div#social{
+  text-align: center;
+    
 
+}
 
 h1{
     color: aliceblue;
