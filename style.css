@@ -2,8 +2,13 @@
 *{font-family:'Times New Roman', Times, serif;
 
 }
-body{background-image: linear-gradient(to bottom,#292a36,#192beb,#5454f9);
+body{background-image: linear-gradient(to bottom,#292a36,#192beb,#7979f9);
 margin: 0px;
+
+}
+main{
+
+    text-align: center;
 }
 div#social{
     width: 300px;
