@@ -10,20 +10,10 @@ main{
 
     text-align: center;
 }
-div#social{
-    width: 300px;
-    height: 300px;
-    border-radius: 20%;
-    border-color: rgb(255, 255, 255);
-    border-style: double;
-    background: #FFF;
-    background: rgba(109, 196, 246, 0.231);
-    margin: auto;
-    text-align: justify;
-    align-items: center;
-}
+
 div#id{
     width:500px;
+   
     height: 400px;
     border-radius: 5%;
     border-style: double;
@@ -32,8 +22,21 @@ div#id{
     margin: auto;   
     color: rgb(0, 22, 41);
     align-self: center;
-    position: relative;
+    position:relative;
     align-items: center;
+    text-align: center;
+}
+div#social{
+    width: 158px;
+    height: 200px;
+    border-radius: 20%;
+    border-color: rgb(255, 255, 255);
+    border-style: double;
+    background: #FFF;
+    background: rgba(109, 196, 246, 0.231);
+    margin: auto;
+    align-self: auto;
+  
 }
 h1,h2,h3{
     color: rgba(255, 255, 255, 0.848);
